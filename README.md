@@ -4,7 +4,7 @@
 
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Php],
+   code: [Javascript, HTML, CSS, PHP],
    technologies: {
       frontEnd: {
          js: ["React"],
