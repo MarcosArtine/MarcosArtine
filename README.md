@@ -4,17 +4,17 @@
 
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, PHP],
+   code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Next.js"],
+         css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"],
          php: ["Laravel"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
+      databases: ["MongoDB", "mySQL", "PostgreSQL", "Sequelize", "SQLServer"],
       architecture: ["Model-View-Controller (MVC)", "Microservices", "Event-driven", "Design system pattern"]
    },
    currentOccupation: ["last year student, open for job opportunities"]
