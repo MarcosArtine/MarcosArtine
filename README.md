@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Namaste%20🙏%20I'm%20Marcos%20Artine&fontSize=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soy%20Marcos%20Artine&fontSize=38" width="100%" />
 
   <p>💻 Estudiante de último año de carrera | Apasionado por el desarrollo Web Full Stack</p>
 
@@ -24,18 +24,6 @@
 
 ---
 
-### 📫 Contacto
-
-<p align="left">
-  <a href="mailto:tu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🚀 Lenguajes y Herramientas
 
